@@ -8,6 +8,8 @@
 #include <unistd.h>
 #include "kheader.h" 
 
+#define LEN_BUF 256
+#define LEN_MSG 5000
 #define MULTITHREAD 0
 int firsttime=1;
 
